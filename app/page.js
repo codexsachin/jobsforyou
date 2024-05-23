@@ -25,10 +25,11 @@ const page = () => {
                         <div class="rounded-lg h-64 overflow-hidden">
                           <img alt="content"
                             class="object-cover object-center h-full w-full"
-                            src="https://job4freshers.co.in/wp-content/uploads/2023/01/job4freshers-81.webp?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1" />
+                            src="https://jobnow247.in/wp-content/uploads/2024/05/Private-Job-Boat-Company-in-Quality-Department.jpg" />
                         </div>
-                        <h2 class="text-xl font-medium title-font text-gray-900 mt-5" > full stack developer </h2>
-                        <p class="text-base leading-relaxed mt-2" > LLTS IT PVT LTD is a leading technology solutions provider dedicated to delivering innovative IT services to clients across various industries. We are committed to fostering a collaborative and growth-oriented work environment. Our team thrives on creativity, cutting-edge technology, and the drive to achieve excellence.</p> <a href="" class="text-indigo-500 inline-flex items-center mt-3" > About this job <
+                        <h2 class="text-xl font-medium title-font text-gray-900 mt-5" > boat requirment </h2>
+                        <p class="text-base leading-relaxed mt-2" > 
+                              Boat is inviting applications for the position of Quality Department Here you are given complete information about the job. Must read the complete article for complete information.</p> <a href="" class="text-indigo-500 inline-flex items-center mt-3" > About this job <
                             svg fill="none"
                             stroke="currentColor"
                             stroke-linecap = "round"
