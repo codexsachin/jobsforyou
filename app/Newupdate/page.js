@@ -6,8 +6,8 @@ const page = () => {
     
     <div className='p-14 items-center justify-between bg-slate-100'>
          <div  className='items-center'>
-         <h1 className='text-center text-4xl '>Capgemini Recruitment for test Analyst | apply now</h1>
-          <p className='text-center'> Posted by coding._wala</p>
+         <h1 className='text-center text-4xl '>boat recurment for freshar | apply now</h1>
+          <p className='text-center'> Posted by jobsforyou.ver</p>
          </div>
          <div>
         <img src="https://job4freshers.co.in/wp-content/uploads/2023/01/job4freshers-81.webp?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1" alt="" />
